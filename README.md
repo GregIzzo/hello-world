@@ -1,2 +1,5 @@
 # hello-world
-A simple Hello World example using Github
+
+Hi Humans!
+
+I like programming and games.
